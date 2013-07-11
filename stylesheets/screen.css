@@ -61,7 +61,7 @@
    License: none (public domain)
 */
 
-html, body, div, span, applet, object, iframe,
+html, body, avatar, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
@@ -144,6 +144,8 @@ header {
   top: 38px;
 }
 
+
+
 header span.ribbon-inner {
   position: relative;
   display: block;
@@ -174,6 +176,7 @@ header span.right-tail {
   right: -31px;
 }
 
+
 header h1 {
   background-color: ##efe;
   font-size: 2.5em;
@@ -185,6 +188,8 @@ header h1 {
   letter-spacing:1px;
   padding: 14px 20px 4px;
 }
+
+
 
 header h2 {
   background-color: ##efe;
@@ -369,6 +374,7 @@ body {
   color: #544943;
   -webkit-font-smoothing: antialiased;
 }
+
 
 a, a:hover {
   color: #417090;
