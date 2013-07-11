@@ -522,6 +522,13 @@ dd p:first-child {
 
 /* Content based headers */
 
+.avatar {
+text-align: center;
+width: auto;
+padding: 50px;
+margin: 0px 0px 1em}
+}
+
 #main_content > .header-level-1:first-child,
 #main_content > .header-level-2:first-child,
 #main_content > .header-level-3:first-child,
@@ -530,6 +537,8 @@ dd p:first-child {
 #main_content > .header-level-6:first-child {
   margin-top: 0;
 }
+
+
 
 .header-level-1 {
   font-size: 1.85em;
@@ -581,3 +590,4 @@ dd p:first-child {
   font-size: .85em;
   font-style: italic;
 }
+
