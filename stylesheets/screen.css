@@ -395,7 +395,10 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 p {
+  font-style: italic;
+  color: #6B8E23;
   margin: .7em 0;
+  text-align: center;
 }
 
 strong {
@@ -525,7 +528,7 @@ dd p:first-child {
 .avatar {
 text-align: center;
 width: auto;
-padding: 50px;
+padding: 33px;
 margin: 0px 0px 1em}
 }
 
@@ -543,7 +546,7 @@ color: #000;
 }
 
 .medals3 img {
-margin: 1em 1em; 
+margin: auto;
 max-height: 77px;
 max-width: 77px;}
 
@@ -556,7 +559,7 @@ color: #000;
 }
 
 .medals4 img {
-margin: 1em 1em; 
+margin: auto;
 max-height: 77px;
 max-width: 77px;}
 
@@ -569,7 +572,7 @@ color: #000;
 }
 
 .medals5 img {
-margin: 1em 1em; 
+margin: auto;
 max-height: 77px;
 max-width: 77px;}
 
@@ -600,7 +603,7 @@ color: #000;
   text-align: center;
   font-style:italic;
   margin: 1.1em 0 .38em;
-  line-height: 2;
+  line-height: 1;
   padding-bottom: 10px
 }
 
@@ -611,7 +614,7 @@ color: #000;
   font-style:italic;
   margin: .95em 0 .5em;
   border-bottom: .1em solid #efe;
-  line-height: 1.2;
+  line-height: 1;
   padding-bottom: 10px
 }
 
@@ -622,7 +625,7 @@ color: #000;
   font-style:italic;
   margin: .95em 0 .5em;
   border-bottom: .1em solid #efe;
-  line-height: 1.2;
+  line-height: 1;
   padding-bottom: 10px
 }
 
@@ -633,7 +636,7 @@ font-size: 1.85em;
   font-style:italic;
   margin: .95em 0 .5em;
   border-bottom: .1em solid #efe;
-  line-height: 1.2;
+  line-height: 1;
   padding-bottom: 10px
 
 .header-level-5 {
@@ -643,7 +646,7 @@ font-size: 1.85em;
   font-style:italic;
   margin: .95em 0 .5em;
   border-bottom: .1em solid #efe;
-  line-height: 1.2;
+  line-height: 1;
   padding-bottom: 10px
 
 .header-level-6 {
