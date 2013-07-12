@@ -431,11 +431,10 @@ blockquote {
 }
 
 img {
-  -webkit-box-shadow: 0px 0px 0px #bdb6ad;
-  -moz-box-shadow: 0px 0px 0px #bdb6ad;
-  box-shadow: 0px 0px 0px #bdb6ad;
-  border: 2px solid #efe;
-  max-width: 100px;
+    border: 2px solid #EEFFEE;
+    box-shadow: 0 0 0 #BDB6AD;
+    max-height: 100px;
+    max-width: 100px;
 }
 
 hr {
