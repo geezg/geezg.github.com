@@ -61,7 +61,7 @@
    License: none (public domain)
 */
 
-html, body, avatar, div, span, applet, object, iframe,
+html, body, avatar, div, span, applet, object, iframe, medals,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
@@ -528,6 +528,59 @@ width: auto;
 padding: 50px;
 margin: 0px 0px 1em}
 }
+
+.medals2 img {
+margin: 1em 1em; 
+max-height: 77px;
+max-width: 77px;}
+
+.medals2 {
+width: auto;
+margin: 0px 1em;
+padding: 0px;
+text-align: center;
+color: #000;
+}
+
+.medals3 img {
+margin: 1em 1em; 
+max-height: 77px;
+max-width: 77px;}
+
+.medals3 {
+width: auto;
+margin: 0px 1em;
+padding: 0px;
+text-align: center;
+color: #000;
+}
+
+.medals4 img {
+margin: 1em 1em; 
+max-height: 77px;
+max-width: 77px;}
+
+.medals4 {
+width: auto;
+margin: 0px 1em;
+padding: 0px;
+text-align: center;
+color: #000;
+}
+
+.medals5 img {
+margin: 1em 1em; 
+max-height: 77px;
+max-width: 77px;}
+
+.medals5 {
+width: auto;
+margin: 0px 1em;
+padding: 0px;
+text-align: center;
+color: #000;
+}
+
 
 #main_content > .header-level-1:first-child,
 #main_content > .header-level-2:first-child,
