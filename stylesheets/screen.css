@@ -178,7 +178,7 @@ header span.right-tail {
 
 
 header h1 {
-  background-color: ##efe;
+  background-color: #efe;
   font: bold italic .85em/1.5 Georgia, Times, “Times New Roman”, serif;
   font-size: 3.0em;
   font-weight: 800;
@@ -438,6 +438,7 @@ img {
     box-shadow: 0 0 0 #BDB6AD;
     max-height: 100px;
     max-width: 100px;
+    
 }
 
 hr {
