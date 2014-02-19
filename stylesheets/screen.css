@@ -144,8 +144,6 @@ header {
   top: 38px;
 }
 
-
-
 header span.ribbon-inner {
   position: relative;
   display: block;
@@ -176,7 +174,6 @@ header span.right-tail {
   right: -31px;
 }
 
-
 header h1 {
   background-color: #efe;
   font: bold italic .85em/1.5 Georgia, Times, “Times New Roman”, serif;
@@ -190,10 +187,8 @@ header h1 {
   padding: 14px 20px 4px;
 }
 
-
-
 header h2 {
-  background-color: ##efe;
+  background-color: #efe;
   font: bold italic .85em/1.5 Georgia, Times, “Times New Roman”, serif;
   color: #6b8e23;
   padding-bottom: 14px;
@@ -376,7 +371,6 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-
 a, a:hover {
   color: #417090;
 }
@@ -389,7 +383,7 @@ a:hover {
   text-decoration: underline;
 }
 
-h1,h2,h3,h4,h5,h6,h7 {
+h1,h2,h3,h4,h5,h6,h7{
   font-family: 'Open Sans', Myriad, Calibri, sans-serif;
   font-weight: bold;
 }
@@ -434,11 +428,11 @@ blockquote {
 }
 
 img {
-    border: 2px solid #EEFFEE;
-    box-shadow: 0 0 0 #BDB6AD;
-    max-height: 100px;
-    max-width: 100px;
-    
+
+  border: 2px solid #EEFFEE;
+  box-shadow: 0 0 0 #BDB6AD;
+  max-height: 100px;
+  max-width: 100px;  
 }
 
 hr {
@@ -607,7 +601,6 @@ color: #000;
 #main_content > .header-level-7:first-child {
   margin-top: 0;
 }
-
 
 
 .header-level-1 {
